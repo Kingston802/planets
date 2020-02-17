@@ -3,19 +3,10 @@
     padding: 0;
     font-family: 'Roboto', sans-serif;
     font-size: 10px;
-
-    /* colour variables */
-    --bg-colour: #282828;
-    --bg-4: #7c6f64;
-    --white: #ebdbb2;
-    --red: #cc241d;
-    --blue: #458588;
-    --green: #98971a;
-    --purple: #b16286;
 }
 html, body {
     height: 100%;
-    background-color: var(--bg-colour);
+    background-color: #282828;
 }
 .wrapper {
     height: 100%;
@@ -34,11 +25,11 @@ header {
 }
 h1 {
     font-size: 4em;
-    color: var(--white);
-    padding: 2em;
-}
-.planet {
-    background-color: var(--red);
+    color: #ebdbb2;
+    padding: 2em } 
+
+#planet { 
+    background-color: #cc241d; 
     width: 100px;
     height: 100px;
     border-radius: 100%;

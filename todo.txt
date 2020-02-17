@@ -1,6 +1,4 @@
 surface pattern
-Size
-Colours 
 
 Reload animation
 Space to reload
