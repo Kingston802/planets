@@ -1,9 +1,10 @@
 surface pattern
 
+options
+
 Reload animation
-Space to reload
 Save function
 Background
 
 Optional:
-Different colour schemes
+Different set colour schemes
